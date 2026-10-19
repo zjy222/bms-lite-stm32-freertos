@@ -1,1 +1,0 @@
-# bms-lite-stm32-freertos
